@@ -6,16 +6,16 @@ import java.util.ArrayList;
 public class MyResponse implements Serializable
 {
     private static final long serialVersionUID = 1L;
-    ArrayList<MyUser> users;
+    ArrayList<MyEvent> events;
 
-    public ArrayList<MyUser> getUsers()
+    public ArrayList<MyEvent> getEvents()
     {
-	return users;
+	return events;
     }
 
-    public void setUsers(ArrayList<MyUser> users)
+    public void setEvents(ArrayList<MyEvent> events)
     {
-	this.users = users;
+	this.events = events;
     }
 
 }

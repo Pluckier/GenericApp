@@ -2,8 +2,8 @@ package src.client.callbacks;
 
 import src.client.GenericApp;
 import src.client.handlers.MyCloseClickHandler;
+import src.shared.model.MyEvent;
 import src.shared.model.MyResponse;
-import src.shared.model.MyUser;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.user.client.ui.HTML;
 import com.google.gwt.user.client.ui.VerticalPanel;
@@ -35,9 +35,9 @@ public class MyAsyncCallback implements AsyncCallback<MyResponse>
 	buildResponsePanel();
 	fm.getDialogBox().setText("Remote Procedure Call - Success");
 	fm.getServerResponseLabel().removeStyleName("serverResponseLabelError");
-	for (MyUser u : result.getUsers())
+	for (MyEvent e : result.getEvents())
 	{
-	    fm.getServerResponseLabel().setHTML(fm.getServerResponseLabel() + u.getUser() + " " + u.getEmail() + "<BR>");
+	    fm.getServerResponseLabel().setHTML(fm.getServerResponseLabel() + e.getTime() + " " + e.getPlace() + "<BR>");
 	}
 	fm.getDialogBox().center();
 	fm.getCloseButton().setFocus(true);
