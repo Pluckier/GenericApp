@@ -1,35 +1,35 @@
-12:20 Lingfield Park,  Hadya, Beach Bar
-12:50 Lingfield Park,  Rudi Five One, Percybelle
-12:55 Thurles,  Gentleman Duke, Blazing Sonnet, Raise Hell, Sitcom
-13:00 Musselburgh,  Schinken Otto, Civil Unrest
-13:10 Towcester,  Lansdowne Princess, Carhue Princess, Roseini
-13:20 Lingfield Park,  Ovatory, Modem, Swehan
-13:25 Thurles,  Realt Dubh, Quito De La Roque
-13:30 Musselburgh,  Akdam
-13:40 Towcester,  Top Benefit, Ballyvoneen, Ifonlyalfie
-13:50 Lingfield Park,  The Grumpy Gnome, Intense Feeling, Dutch Art Dealer, Boogangoo
-13:55 Thurles,  Musawama, Ard Agus Fada, High Talk
-14:00 Musselburgh,  Ballymoat, Agricultural, Forestside
-14:10 Towcester,  Market Option, Scales, Hollow Penny, Church Field, Rior, Thoresby
-14:20 Lingfield Park,  Lujeanie, Valmina, Wooden King, Speedyfix
-14:25 Thurles,  Catimini, Keith's Delight, Emmy Lou
-14:30 Musselburgh,  Brijomi Queen, Rathvawn Belle, Retrieve The Stick
-14:40 Towcester,  Gizzit, Minella For Party, Chicklemix
-14:50 Lingfield Park,  Uncle Fred, Sonnetation, Princess Spirit, Kilburn, Strategic Action
-14:55 Thurles,  Some Benefit, Roadtotheisland
-15:00 Musselburgh,  Foot The Bill, Dukeofchesterwood, Quinder Spring
-15:10 Towcester,  Kris Spin, Westaway, Prideofthecastle, Panama Petrus, Mountain Tunes, Ballinalacken
-15:20 Lingfield Park,  Lady Bayside, Lunette, Simply Shining
-15:25 Thurles,  Famous Ballerina, Ballysassian, Ringned
-15:30 Musselburgh,  Any Given Moment, Abbey Garth, Ballyreesode
-15:40 Towcester,  Reves D'amour, Armedandbeautiful, Down Ace
-15:50 Lingfield Park,  Ruffled, Thankyou Very Much
-15:55 Thurles,  Wrath Of Titans
-16:20 Wolverhampton,  Port Lairge, It Must Be Faith, Musaddas
-16:50 Wolverhampton,  Stoney Quine, Goadby, Caesars Gift, Beautiful Stranger
-17:20 Wolverhampton,  Baileys Celebrate, Dancing Sal
-17:50 Wolverhampton,  Jolly Red Jeanz, An Chulainn
-18:20 Wolverhampton,  Wilhana, Lookbeforeyouleap
-18:50 Wolverhampton,  Countryman, Dark Lane, Titus Gent, Light From Mars, West Leake Diman
-19:20 Wolverhampton,  Super Say, Strictly Silver
-19:50 Wolverhampton,  Corton Lad, Tweed
+12:20, Lingfield Park,  Hadya, Beach Bar
+12:50, Lingfield Park,  Rudi Five One, Percybelle
+12:55, Thurles,  Gentleman Duke, Blazing Sonnet, Raise Hell, Sitcom
+13:00, Musselburgh,  Schinken Otto, Civil Unrest
+13:10, Towcester,  Lansdowne Princess, Carhue Princess, Roseini
+13:20, Lingfield Park,  Ovatory, Modem, Swehan
+13:25, Thurles,  Realt Dubh, Quito De La Roque
+13:30, Musselburgh,  Akdam
+13:40, Towcester,  Top Benefit, Ballyvoneen, Ifonlyalfie
+13:50, Lingfield Park,  The Grumpy Gnome, Intense Feeling, Dutch Art Dealer, Boogangoo
+13:55, Thurles,  Musawama, Ard Agus Fada, High Talk
+14:00, Musselburgh,  Ballymoat, Agricultural, Forestside
+14:10, Towcester,  Market Option, Scales, Hollow Penny, Church Field, Rior, Thoresby
+14:20, Lingfield Park,  Lujeanie, Valmina, Wooden King, Speedyfix
+14:25, Thurles,  Catimini, Keith's Delight, Emmy Lou
+14:30, Musselburgh,  Brijomi Queen, Rathvawn Belle, Retrieve The Stick
+14:40, Towcester,  Gizzit, Minella For Party, Chicklemix
+14:50, Lingfield Park,  Uncle Fred, Sonnetation, Princess Spirit, Kilburn, Strategic Action
+14:55, Thurles,  Some Benefit, Roadtotheisland
+15:00, Musselburgh,  Foot The Bill, Dukeofchesterwood, Quinder Spring
+15:10, Towcester,  Kris Spin, Westaway, Prideofthecastle, Panama Petrus, Mountain Tunes, Ballinalacken
+15:20, Lingfield Park,  Lady Bayside, Lunette, Simply Shining
+15:25, Thurles,  Famous Ballerina, Ballysassian, Ringned
+15:30, Musselburgh,  Any Given Moment, Abbey Garth, Ballyreesode
+15:40, Towcester,  Reves D'amour, Armedandbeautiful, Down Ace
+15:50, Lingfield Park,  Ruffled, Thankyou Very Much
+15:55, Thurles,  Wrath Of Titans
+16:20, Wolverhampton,  Port Lairge, It Must Be Faith, Musaddas
+16:50, Wolverhampton,  Stoney Quine, Goadby, Caesars Gift, Beautiful Stranger
+17:20, Wolverhampton,  Baileys Celebrate, Dancing Sal
+17:50, Wolverhampton,  Jolly Red Jeanz, An Chulainn
+18:20, Wolverhampton,  Wilhana, Lookbeforeyouleap
+18:50, Wolverhampton,  Countryman, Dark Lane, Titus Gent, Light From Mars, West Leake Diman
+19:20, Wolverhampton,  Super Say, Strictly Silver
+19:50, Wolverhampton,  Corton Lad, Tweed

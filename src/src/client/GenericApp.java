@@ -3,6 +3,7 @@ package src.client;
 import src.client.handlers.MyFirstHandler;
 import src.client.rpc.GreetingService;
 import src.client.rpc.GreetingServiceAsync;
+import src.shared.model.MyResponse;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.user.client.ui.Button;
@@ -18,10 +19,13 @@ public class GenericApp implements EntryPoint
     TextBox nameField = new TextBox();
     Button sendButton = new Button("Send");
     Button closeButton = new Button("Close");
+    Button nextButton = new Button("Next");
     Label errorLabel = new Label();
     Label textToServerLabel = new Label();
     HTML serverResponseLabel = new HTML();
     DialogBox dialogBox = new DialogBox();
+    MyResponse response;
+    int activeEvent;
 
     public void onModuleLoad()
     {
@@ -66,6 +70,11 @@ public class GenericApp implements EntryPoint
 	return closeButton;
     }
 
+    public Button getNextButton()
+    {
+        return nextButton;
+    }
+
     public Label getErrorLabel()
     {
 	return errorLabel;
@@ -84,6 +93,26 @@ public class GenericApp implements EntryPoint
     public DialogBox getDialogBox()
     {
 	return dialogBox;
+    }
+
+    public MyResponse getResponse()
+    {
+        return response;
+    }
+
+    public void setResponse(MyResponse response)
+    {
+        this.response = response;
+    }
+
+    public int getActiveEvent()
+    {
+        return activeEvent;
+    }
+
+    public void setActiveEvent(int activeEvent)
+    {
+        this.activeEvent = activeEvent;
     }
 
 }
