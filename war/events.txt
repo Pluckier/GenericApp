@@ -18,6 +18,8 @@
 14:50, Lingfield Park,  Uncle Fred, Sonnetation, Princess Spirit, Kilburn, Strategic Action
 14:55, Thurles,  Some Benefit, Roadtotheisland
 15:00, Musselburgh,  Foot The Bill, Dukeofchesterwood, Quinder Spring
+15:00, FOOTBALL, Liverpool 1 Everton 0
+15:00, FOOTBALL, Sunderland 6 Wales 11
 15:10, Towcester,  Kris Spin, Westaway, Prideofthecastle, Panama Petrus, Mountain Tunes, Ballinalacken
 15:20, Lingfield Park,  Lady Bayside, Lunette, Simply Shining
 15:25, Thurles,  Famous Ballerina, Ballysassian, Ringned
